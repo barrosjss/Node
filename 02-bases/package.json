@@ -9,5 +9,8 @@
     "dev": "echo 'Hola mundo desde dev'"
   },
   "author": "Jesus Barros",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
